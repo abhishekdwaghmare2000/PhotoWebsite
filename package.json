@@ -18,7 +18,7 @@
   "author": "Abhishek Waghmare",
   "license": "ISC",
    "bugs": {
-    "url": ""
+    "url": "https://github.com/abhishekdwaghmare2000/photowebsite11/issues"
   },
   "dependencies": {
     "body-parser": "^1.19.0",
