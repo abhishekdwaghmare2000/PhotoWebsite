@@ -7,6 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1",
 	  "start": "node app.js"
   },
+   "engines": {
+    "node": "= 4.5.0",
+    "npm": "= 3.9.6"
+  },
   "author": "Abhishek Waghmare",
   "license": "ISC",
   "dependencies": {
